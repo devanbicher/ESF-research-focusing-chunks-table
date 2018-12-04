@@ -1,0 +1,10 @@
+#gitignore file for focusing_chunks table creation
+# since we are only including 1 file, plus the gitignore I am going to ignore everything then add the relevant files
+
+#ignore everythin
+*
+
+#include this file and the relevant script
+
+!.gitignore
+!makefocusing_chunksTable.py
